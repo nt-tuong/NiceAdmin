@@ -3,7 +3,7 @@ window.s7_data = {
 		"version": 2,
 		"group_id": null,
 		"organization_id": 1,
-		"do_snippet_flag": false,
+		"do_snippet_flag": true,
 		"do_url": "https://nice-admin.vercel.app/",
 		"couix_api_usage": 0,
 		"show_couix_panel": true
